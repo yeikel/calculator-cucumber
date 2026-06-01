@@ -1,7 +1,7 @@
 {
 	"image": "mcr.microsoft.com/devcontainers/java:1-21",
   "features": {
-    "ghcr.io/devcontainers/features/java:1": {
+    "ghcr.io/devcontainers/features/java:": {
       "version": "21",
       "installGradle": true,
       "installMaven": true
