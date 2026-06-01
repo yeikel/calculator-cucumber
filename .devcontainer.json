@@ -6,7 +6,7 @@
       "installGradle": true,
       "installMaven": true
     },
-    "ghcr.io/devcontainers/features/node:1": {}
+    "ghcr.io/devcontainers/features/node:2": {}
   },
   "customizations": {
     "vscode": {
